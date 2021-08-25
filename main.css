@@ -1,6 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
-
+a{
+    text-decoration: none;
+    color: rgb(29, 121, 115);
+}
 body{
     text-align: center;
     margin: auto;
